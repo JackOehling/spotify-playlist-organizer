@@ -1,1 +1,1 @@
-# Spotify-Playlist-Organizer
+# Spotify Playlist Organizer
